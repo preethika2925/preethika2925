@@ -1,195 +1,175 @@
-<!-- ==================== ANIMATED HEADER ==================== -->
+<!-- ===================================================== -->
+<!--                  PREETHIKA'S PROFILE                  -->
+<!-- ===================================================== -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F0C29,50:302B63,100:8E44AD&text=Preethika&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Preethika - Aspiring Web Developer"/>
+
+💜 Hey, I’m Preethika!
+
+Aspiring Web Developer | Creative Thinker | Lifelong Learner
+
+Turning ideas into beautiful digital experiences.
+
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=C792EA&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+profile!;Building+beautiful+websites;Turning+ideas+into+digital+experiences;Learning+%7C+Building+%7C+Growing" alt="Animated typing introduction"/>
-<a href="https://github.com/preethika2925">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-<a href="https://www.linkedin.com/in/preethika-suresh-a13aab37b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:preethikasuresh25@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+
+GitHub Profile
+  •  
+LinkedIn
+  •  
+Email Me
+
 </div>
 
 ⸻
 
-<!-- ==================== ABOUT ME ==================== -->
+🌸 About Me
 
-💫 About Me
+Hello! I’m Preethika, and I’m passionate about web development, creative design, and building engaging digital experiences.
 
-<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
+I enjoy exploring how technology and creativity come together to make websites that are visually appealing, responsive, and easy to use.
 
-Hey there! 👋 I’m Preethika.
-
-I’m passionate about web development and enjoy exploring how creativity and technology come together to build beautiful digital experiences.
-
-* 💻 Interested in developing modern websites.
-* 🎨 Exploring creative UI designs and responsive layouts.
-* 🌱 Continuously learning new technologies.
-* ✨ Turning creative ideas into interactive experiences.
-* 🎯 Working towards becoming a skilled web developer.
-* 💜 Learning, building, and growing every day.
-
-<br clear="right"/>
+* 🌐 Interested in modern website development.
+* 🎨 Exploring UI design and responsive layouts.
+* 💻 Learning new programming concepts and technologies.
+* 🌱 Improving my skills through practice and projects.
+* ✨ Focused on creating useful and user-friendly web experiences.
+* 🎯 Working towards growing as a web developer.
 
 ⸻
 
-<!-- ==================== CURRENT FOCUS ==================== -->
-
-🚀 What I’m Focusing On
+🚀 What I’m Working Towards
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 🌐 Web Development
 
-Exploring modern web technologies and building responsive, user-friendly websites.
+Learning to build responsive websites with clean layouts and intuitive navigation.
 
 </td>
 <td width="50%" valign="top">
 
-🎨 UI & Design
+🎨 User Interface Design
 
-Discovering creative layouts, clean interfaces, and visually appealing user experiences.
+Exploring typography, colors, layouts, and visual elements that improve user experiences.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-🛠️ Project Building
+🛠️ Practical Projects
 
-Applying my knowledge through practical projects and creative experiments.
+Applying what I learn by experimenting with ideas and developing projects.
 
 </td>
 <td width="50%" valign="top">
 
 🌱 Continuous Learning
 
-Improving my coding skills and exploring better ways to develop websites.
+Discovering new tools, improving my coding practices, and learning step by step.
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ⸻
 
-<!-- ==================== TECH STACK ==================== -->
+💻 Technologies & Tools
 
-💻 Tech Stack & Tools
+🌐 Web Development
 
-🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nextjs&theme=dark" alt="Frontend technologies"/>
-</p>
-
-⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,python,fastapi&theme=dark" alt="Backend technologies"/>
-</p>
+⚙️ Programming & Backend
 
 🗄️ Databases & Services
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&theme=dark" alt="Databases and services"/>
-</p>
-
-🧰 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" alt="Programming languages"/>
-</p>
-
-🎨 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,githubactions&theme=dark" alt="Development tools"/>
-</p>
+🎨 Design, Development & Deployment
 
 ⸻
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
+📂 Explore My Work
 
-📊 GitHub Analytics
-
-<div align="center">
-<a href="https://github.com/preethika2925">
-<img src="https://streak-stats.demolab.com/?user=preethika2925&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak"/>
-</a>
-<a href="https://github.com/preethika2925?tab=repositories">
-<strong>✨ Explore My Repositories →</strong>
-</a>
-</div>
-
-⸻
-
-<!-- ==================== CONTRIBUTION JOURNEY ==================== -->
-
-🌱 My Contribution Journey
-
-<div align="center">
-<a href="https://github.com/preethika2925">
-<img src="https://ghchart.rshah.org/BB9AF7/preethika2925" alt="Preethika's GitHub contribution calendar" width="100%"/>
-</a>
-<br/>
-
-Every contribution is another step forward. 🌱
-
-</div>
-
-⸻
-
-<!-- ==================== EXPLORE PROJECTS ==================== -->
-
-✨ Explore My Work
+I’m interested in creating websites, exploring new ideas, and improving my development skills through practical experience.
 
 <div align="center">
 
-I’m exploring web development and building projects as I learn. 💻
+✨ Every project is an opportunity to learn something new.
 
 <br/>
 <a href="https://github.com/preethika2925?tab=repositories">
-<strong>🚀 Browse All My Projects</strong>
+
+🚀 EXPLORE MY REPOSITORIES →
+
 </a>
-<a href="https://github.com/preethika2925">
-<strong>💜 Visit My GitHub Profile</strong>
+<a href="https://github.com/preethika2925?tab=stars">
+
+⭐ EXPLORE MY STARRED PROJECTS →
+
 </a>
 </div>
 
 ⸻
 
-<!-- ==================== LET'S CONNECT ==================== -->
+🌱 My Developer Journey
+
+I believe that becoming a better developer is a continuous process of learning, experimenting, and building.
+
+My approach:
+
+* 💡 Stay curious and explore new ideas.
+* 🛠️ Practise by building projects.
+* 🎨 Create clear and user-friendly interfaces.
+* 📚 Learn from mistakes and improve.
+* 🚀 Keep moving forward, one project at a time.
+
+⸻
+
+📊 GitHub Activity
+
+<div align="center">
+<a href="https://github.com/preethika2925">
+
+View my contributions, repositories, and development activity on GitHub.
+
+<br/>
+
+→ Visit Preethika’s GitHub Profile
+
+</a>
+</div>
+
+⸻
 
 🌐 Let’s Connect!
 
 <div align="center">
 
-I’m excited to keep learning, creating, and exploring new possibilities in web development. 💜
+I’d love to keep learning, creating, and exploring new possibilities in web development. 💜
 
 <a href="https://www.linkedin.com/in/preethika-suresh-a13aab37b/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+LinkedIn
+
 </a>
+
+  •  
+
 <a href="mailto:preethikasuresh25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+Email
+
 </a>
+
+  •  
+
 <a href="https://github.com/preethika2925">
-<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+GitHub
+
 </a>
-<img src="https://komarev.com/ghpvc/?username=preethika2925&label=PROFILE%20VIEWS&color=bb9af7&style=for-the-badge" alt="Profile views"/>
 
-✨ Learning today. Building tomorrow. Creating with passion. ✨
+💜 Learn. Build. Create. Repeat.
 
-</div>
-<!-- ==================== ANIMATED FOOTER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:302B63,100:0F0C29&height=120&section=footer" width="100%" alt="Decorative footer"/>
-<div align="center">
-
-Thanks for visiting my profile! 💜
+Thanks for visiting my profile!
 
 </div>
