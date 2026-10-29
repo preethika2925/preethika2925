@@ -98,6 +98,7 @@ Explore my repositories and projects →
 <div align="center">
 <a href="https://github.com/preethika2925?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/>
+  <img src="https://img.shields.io/badge/Explore-My_Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/>
 </a>
 
 Explore my repositories to see my projects, experiments, and development journey.
@@ -113,6 +114,12 @@ Every project is another opportunity to learn something new! 💜
 <div align="center">
 <img src="https://raw.githubusercontent.com/preethika2925/preethika2925/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 <p><i>The snake animation appears after the GitHub Actions workflow completes successfully.</i></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preethika2925/preethika2925/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/preethika2925/preethika2925/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/preethika2925/preethika2925/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+</picture>
+<p><i>The snake animation updates automatically via GitHub Actions.</i></p>
 </div>
 
 ⸻
