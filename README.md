@@ -1,6 +1,6 @@
 <!-- Animated GitHub Profile README | preethika2925 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:DA70D6,100:00C9FF&height=220&section=header&text=Preethika%20&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Web%20Developer%20%7C%20Creative%20Thinker&descAlignY=56&descSize=17" width="100%" alt="Preethika Suresh Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:DA70D6,100:00C9FF&height=220&section=header&text=Preethika%20S&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Web%20Developer%20%7C%20Creative%20Thinker&descAlignY=56&descSize=17" width="100%" alt="Preethika Suresh Header Banner"/>
   
   <br/>
   
