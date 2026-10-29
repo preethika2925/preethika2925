@@ -3,9 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F0C29,50:302B63,100:8E44AD&text=Preethika&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Preethika - Aspiring Web Developer"/>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=C792EA&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+profile!;Building+beautiful+websites;Turning+ideas+into+digital+experiences;Learning+%7C+Building+%7C+Growing" alt="Animated typing introduction"/>
-<br/>
 <a href="https://github.com/preethika2925">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 <a href="https://www.linkedin.com/in/preethika-suresh-a13aab37b/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -124,7 +123,7 @@ Improving my coding skills and exploring better ways to develop websites.
 <img src="https://streak-stats.demolab.com/?user=preethika2925&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak"/>
 </a>
 <a href="https://github.com/preethika2925?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-8E44AD?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+<strong>✨ Explore My Repositories →</strong>
 </a>
 </div>
 
@@ -142,22 +141,24 @@ Improving my coding skills and exploring better ways to develop websites.
 
 Every contribution is another step forward. 🌱
 
-<br/>
-<a href="https://github.com/preethika2925?tab=repositories">
-Explore my projects and contributions →
-</a>
 </div>
 
 ⸻
 
-<!-- ==================== WEB DEVELOPMENT JOURNEY ==================== -->
+<!-- ==================== EXPLORE PROJECTS ==================== -->
 
-✨ Building My Developer Journey
+✨ Explore My Work
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=BB9AF7&center=true&vCenter=true&width=550&height=40&lines=Dream+%E2%80%A2+Design+%E2%80%A2+Develop;Every+project+is+a+new+opportunity;Creating+one+website+at+a+time" alt="Animated developer journey"/>
+
+I’m exploring web development and building projects as I learn. 💻
+
+<br/>
 <a href="https://github.com/preethika2925?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Projects-8E44AD?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<strong>🚀 Browse All My Projects</strong>
+</a>
+<a href="https://github.com/preethika2925">
+<strong>💜 Visit My GitHub Profile</strong>
 </a>
 </div>
 
