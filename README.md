@@ -121,17 +121,19 @@ These badges reflect the technologies in the supplied profile. Keep only the too
 
 📊 GitHub Analytics
 
+📊 GitHub Analytics
+
 <div align="center">
 <a href="https://github.com/preethika2925">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=preethika2925&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Preethika's GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=preethika2925&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=preethika2925&layout=compact&theme=tokyonight&hide_border=true">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethika2925&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </a>
 <a href="https://github.com/preethika2925">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethika2925&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=preethika2925&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </a>
-<br/>
-<img width="70%" src="https://streak-stats.demolab.com?user=preethika2925&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </div>
-
 ⸻
 
 <!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
