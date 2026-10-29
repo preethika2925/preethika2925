@@ -1,18 +1,185 @@
-# 💫 About Me:
-Hey there! 👋 I’m Preethika<br><br>🌸 Welcome to my little corner of GitHub!<br><br>💻 I’m passionate about web development and love exploring ways to turn creative ideas into beautiful, interactive, and user-friendly websites.<br><br>✨ I’m currently focusing on improving my web development skills, exploring new technologies, and building projects that combine creativity with functionality.<br><br>🌱 Always learning, always building, and always growing.<br><br>🎯 My Goal: To create meaningful digital experiences, one website at a time.<br><br>💖 Thanks for visiting my profile! Feel free to explore my projects and follow my journey as I grow as a developer.
+<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F0C29,50:302B63,100:8E44AD&text=Preethika&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn&stroke=BB86FC&strokeWidth=1" width="100%" alt="Preethika - Aspiring Web Developer"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=C792EA&center=true&vCenter=true&width=650&height=55&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Building+beautiful+web+experiences+%F0%9F%92%BB;Turning+creative+ideas+into+reality+%E2%9C%A8;Learning%2C+building%2C+and+growing+%F0%9F%8C%B1" alt="Animated typing introduction"/>
+</a>
+<br/>
+<a href="https://github.com/preethika2925">
+  <img src="https://img.shields.io/badge/GitHub-preethika2925-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/preethika-suresh-a13aab37b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:preethikasuresh25@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</div>
 
+⸻
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preethika-suresh-a13aab37b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preethikasuresh25@gmail.com) 
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+<img align="right" alt="Coding animation" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=preethika2925&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=preethika2925&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=preethika2925&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💫 About Me
 
----
-[![](https://komarev.com/ghpvc/?username=preethika2925&icon=0&color=0)](https://visitcount.itsvg.in)
+Hey there! I’m Preethika 👋
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I’m passionate about web development and enjoy exploring how design and technology come together to create beautiful digital experiences.
+
+* 💻 Interested in building modern, responsive websites.
+* 🎨 Exploring creative UI designs and user-friendly interfaces.
+* 🌱 Continuously learning and improving my development skills.
+* ✨ Enjoy turning ideas into interactive web experiences.
+* 🎯 Working towards becoming a skilled web developer.
+* 💜 Believer in learning by building and growing through experience.
+
+<br clear="right"/>
+
+⸻
+
+<!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
+
+🚀 What I’m Focusing On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🌐 Web Development
+
+Exploring website development, responsive layouts, and interactive user experiences.
+
+</td>
+<td width="50%" valign="top">
+
+🎨 Creative Design
+
+Learning how thoughtful design and clean interfaces can make websites more enjoyable to use.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🛠️ Building Projects
+
+Practising my skills by creating projects and experimenting with new ideas.
+
+</td>
+<td width="50%" valign="top">
+
+🌱 Continuous Learning
+
+Discovering new tools, technologies, and better ways to write maintainable code.
+
+</td>
+</tr>
+</table>
+
+⸻
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+
+💻 Tech Stack & Tools
+
+🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nextjs&theme=dark" alt="Frontend technologies"/>
+</p>
+
+⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,fastapi&theme=dark" alt="Backend technologies"/>
+</p>
+
+🗄️ Databases & Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&theme=dark" alt="Databases and services"/>
+</p>
+
+🧰 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="Programming languages"/>
+</p>
+
+🎨 Design, Development & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,netlify,githubactions&theme=dark" alt="Development tools"/>
+</p>
+
+These badges reflect the technologies in the supplied profile. Keep only the tools Preethika genuinely knows or is actively learning, and move her primary web development skills to the front.
+
+⸻
+
+<!-- ═══════════════════════ GITHUB STATISTICS ═══════════════════════ -->
+
+📊 GitHub Analytics
+
+<div align="center">
+<a href="https://github.com/preethika2925">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=preethika2925&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Preethika's GitHub statistics"/>
+</a>
+<a href="https://github.com/preethika2925">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethika2925&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</a>
+<br/>
+<img width="70%" src="https://streak-stats.demolab.com?user=preethika2925&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</div>
+
+⸻
+
+<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
+
+🌱 My Contribution Journey
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=preethika2925&bg_color=1a1b27&color=c792ea&line=bb9af7&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+</div>
+
+⸻
+
+<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
+
+🐍 Watch My Contributions Come to Life
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/preethika2925/preethika2925/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
+</div>
+
+⸻
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+🌐 Let’s Connect!
+
+<div align="center">
+
+I’m always excited to learn, create, and explore new possibilities in web development. 💜
+
+<a href="https://www.linkedin.com/in/preethika-suresh-a13aab37b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:preethikasuresh25@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/preethika2925">
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=preethika2925&label=Profile%20Views&color=bb9af7&style=for-the-badge" alt="Profile view counter"/>
+
+✨ Learning today. Building tomorrow. Creating with passion. ✨
+
+</div>
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:302B63,100:0F0C29&height=120&section=footer" width="100%" alt="Decorative footer"/>
+<div align="center">
+
+Thanks for stopping by! 💜
+
+</div>
