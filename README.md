@@ -1,4 +1,4 @@
-<!-- ==================== ANIMATED HEADER ==================== -->
+<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F0C29,50:302B63,100:8E44AD&text=Preethika&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Preethika - Aspiring Web Developer"/>
 <a href="https://readme-typing-svg.demolab.com">
@@ -18,7 +18,7 @@
 
 ⸻
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
 💫 About Me
 
@@ -39,7 +39,7 @@ I’m passionate about web development and enjoy exploring how creativity and te
 
 ⸻
 
-<!-- ==================== CURRENT FOCUS ==================== -->
+<!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
 
 🚀 What I’m Focusing On
 
@@ -80,7 +80,7 @@ Improving my coding skills and exploring better ways to develop websites.
 
 ⸻
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 💻 Tech Stack & Tools
 
@@ -116,7 +116,7 @@ Improving my coding skills and exploring better ways to develop websites.
 
 ⸻
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
 📊 GitHub Analytics
 
@@ -125,13 +125,13 @@ Improving my coding skills and exploring better ways to develop websites.
 <img src="https://streak-stats.demolab.com/?user=preethika2925&theme=tokyonight&hide_border=true" width="75%" alt="Preethika's GitHub contribution streak"/>
 </a>
 <a href="https://github.com/preethika2925?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Repositories-8E44AD?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+<strong>✨ Explore My Repositories →</strong>
 </a>
 </div>
 
 ⸻
 
-<!-- ==================== CONTRIBUTION JOURNEY ==================== -->
+<!-- ═══════════════════ CONTRIBUTION JOURNEY ═══════════════════ -->
 
 🌱 My Contribution Journey
 
@@ -151,7 +151,7 @@ Explore my projects and contributions →
 
 ⸻
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+<!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
 
 🐍 Watch My Contributions Come to Life
 
@@ -161,7 +161,7 @@ Explore my projects and contributions →
 
 ⸻
 
-<!-- ==================== LET'S CONNECT ==================== -->
+<!-- ═══════════════════ LET'S CONNECT ═══════════════════ -->
 
 🌐 Let’s Connect!
 
@@ -183,7 +183,7 @@ I’m excited to keep learning, creating, and exploring new possibilities in web
 ✨ Learning today. Building tomorrow. Creating with passion. ✨
 
 </div>
-<!-- ==================== ANIMATED FOOTER ==================== -->
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:302B63,100:0F0C29&height=120&section=footer" width="100%" alt="Purple animated footer"/>
 <div align="center">
 
