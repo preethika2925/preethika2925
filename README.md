@@ -1,12 +1,11 @@
-<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
+<!-- ==================== ANIMATED HEADER ==================== -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F0C29,50:302B63,100:8E44AD&text=Preethika&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Preethika - Aspiring Web Developer"/>
-<a href="https://readme-typing-svg.demolab.com">
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=C792EA&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+profile!;Building+beautiful+websites;Turning+ideas+into+digital+experiences;Learning+%7C+Building+%7C+Growing" alt="Animated typing introduction"/>
-</a>
 <br/>
 <a href="https://github.com/preethika2925">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/preethika-suresh-a13aab37b/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,7 +17,7 @@
 
 ⸻
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<!-- ==================== ABOUT ME ==================== -->
 
 💫 About Me
 
@@ -33,13 +32,13 @@ I’m passionate about web development and enjoy exploring how creativity and te
 * 🌱 Continuously learning new technologies.
 * ✨ Turning creative ideas into interactive experiences.
 * 🎯 Working towards becoming a skilled web developer.
-* 💜 Believing in learning, building, and growing every day.
+* 💜 Learning, building, and growing every day.
 
 <br clear="right"/>
 
 ⸻
 
-<!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
+<!-- ==================== CURRENT FOCUS ==================== -->
 
 🚀 What I’m Focusing On
 
@@ -80,7 +79,7 @@ Improving my coding skills and exploring better ways to develop websites.
 
 ⸻
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<!-- ==================== TECH STACK ==================== -->
 
 💻 Tech Stack & Tools
 
@@ -99,7 +98,7 @@ Improving my coding skills and exploring better ways to develop websites.
 🗄️ Databases & Services
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&theme=dark" alt="Database technologies"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&theme=dark" alt="Databases and services"/>
 </p>
 
 🧰 Programming Languages
@@ -116,22 +115,22 @@ Improving my coding skills and exploring better ways to develop websites.
 
 ⸻
 
-<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
 📊 GitHub Analytics
 
 <div align="center">
 <a href="https://github.com/preethika2925">
-<img src="https://streak-stats.demolab.com/?user=preethika2925&theme=tokyonight&hide_border=true" width="75%" alt="Preethika's GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=preethika2925&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak"/>
 </a>
 <a href="https://github.com/preethika2925?tab=repositories">
-<strong>✨ Explore My Repositories →</strong>
+<img src="https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-8E44AD?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 </div>
 
 ⸻
 
-<!-- ═══════════════════ CONTRIBUTION JOURNEY ═══════════════════ -->
+<!-- ==================== CONTRIBUTION JOURNEY ==================== -->
 
 🌱 My Contribution Journey
 
@@ -151,17 +150,20 @@ Explore my projects and contributions →
 
 ⸻
 
-<!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
+<!-- ==================== WEB DEVELOPMENT JOURNEY ==================== -->
 
-🐍 Watch My Contributions Come to Life
+✨ Building My Developer Journey
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/preethika2925/preethika2925/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Preethika's animated GitHub contribution snake"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=BB9AF7&center=true&vCenter=true&width=550&height=40&lines=Dream+%E2%80%A2+Design+%E2%80%A2+Develop;Every+project+is+a+new+opportunity;Creating+one+website+at+a+time" alt="Animated developer journey"/>
+<a href="https://github.com/preethika2925?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Projects-8E44AD?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+</a>
 </div>
 
 ⸻
 
-<!-- ═══════════════════ LET'S CONNECT ═══════════════════ -->
+<!-- ==================== LET'S CONNECT ==================== -->
 
 🌐 Let’s Connect!
 
@@ -183,8 +185,8 @@ I’m excited to keep learning, creating, and exploring new possibilities in web
 ✨ Learning today. Building tomorrow. Creating with passion. ✨
 
 </div>
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:302B63,100:0F0C29&height=120&section=footer" width="100%" alt="Purple animated footer"/>
+<!-- ==================== ANIMATED FOOTER ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,50:302B63,100:0F0C29&height=120&section=footer" width="100%" alt="Decorative footer"/>
 <div align="center">
 
 Thanks for visiting my profile! 💜
