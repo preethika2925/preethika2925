@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <p>Hey! I’m <strong>Preethika Suresh</strong>, an aspiring web developer who enjoys combining creativity with technology to build beautiful, responsive, and user-friendly digital experiences.</p>
+      <p>Hey! I’m <strong>Preethika S</strong>, an aspiring web developer who enjoys combining creativity with technology to build beautiful, responsive, and user-friendly digital experiences.</p>
       <ul>
         <li>💜 <strong>Passion:</strong> Web development, modern UI design, and creative frontend experiences.</li>
         <li>🌱 <strong>Currently learning:</strong> Advanced JavaScript concepts, modern frontend tooling, and clean architecture.</li>
